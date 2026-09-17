@@ -1,4 +1,4 @@
-**Hey there! 🫠**
+### Hey there! 🫠
 
 I'm **Anuj Dandavate**, a developer who enjoys building things for the web and exploring new technologies.
 
