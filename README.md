@@ -1,4 +1,4 @@
-***Hey there! 🫠***
+<big>**Hey there! 🫠**</big>
 
 I'm **Anuj Dandavate**, a developer who enjoys building things for the web and exploring new technologies.
 
